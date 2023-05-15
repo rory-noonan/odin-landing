@@ -47,8 +47,7 @@ body {
 .hero,
 .info,
 .quote,
-.cta,
-.footer {
+.cta {
   margin: 0 15%;
 }
 
@@ -227,4 +226,11 @@ body {
   border-color: white;
   border-style: solid;
   margin-top: 0;
+}
+
+.footer {
+  background-color: var(--dark-bg-clr);
+  color: var(--hero-sec-text-clr);
+  text-align: center;
+  padding: 25px;
 }
