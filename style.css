@@ -61,6 +61,7 @@ body {
   align-items: center;
   justify-content: space-between;
   height: 75px;
+  padding: 0px 100px;
 }
 
 .header-logo {
@@ -79,8 +80,7 @@ body {
 }
 
 .hero {
-  padding-top: 100px;
-  padding-bottom: 100px;
+  padding: 100px;
   display: flex;
   justify-content: center;
   gap: 100px;
