@@ -173,3 +173,24 @@ body {
 .content-3 {
   background-color: var(--quote-section-bg-clr);
 }
+
+.quote {
+  display: flex;
+  flex-direction: column;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  padding: 0 180px;
+}
+
+.quote-text {
+  font-size: var(--quote-text-sze);
+  color: var(--quote-text-clr);
+  font-weight: var(--quote-text-wgt);
+  font-style: var(--quote-text-stl);
+}
+
+.attribution-text {
+  text-align: end;
+  font-weight: 900;
+  font-size: 1.25em;
+}
