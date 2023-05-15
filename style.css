@@ -24,3 +24,7 @@
   --quote-text-stl: italic;
   --quote-text-wgt: light;
 }
+
+body {
+  font-family: Roboto, sans-serif;
+}
