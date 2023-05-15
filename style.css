@@ -194,3 +194,37 @@ body {
   font-weight: 900;
   font-size: 1.25em;
 }
+
+.content-4 {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding: 100px;
+}
+
+.cta {
+  background-color: var(--btn-cta-clr);
+  border-radius: 10px;
+  padding: 40px 100px;
+  display: flex;
+  flex: 1;
+  justify-content: space-evenly;
+  align-items: center;
+}
+
+.cta-block {
+  display: flex;
+  flex-direction: column;
+  color: var(--header-logo-text-clr);
+}
+
+.cta-headline {
+  font-size: 1.5em;
+  font-weight: 900;
+}
+
+.cta .button {
+  border-color: white;
+  border-style: solid;
+  margin-top: 0;
+}
