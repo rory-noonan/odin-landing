@@ -1,0 +1,26 @@
+:root {
+  --dark-bg-clr: #1f2937;
+
+  --hero-main-text-clr: #f9faf8;
+  --hero-main-text-wgt: extra-bold;
+  --hero-main-text-sze: 48px;
+
+  --hero-sec-text-clr: #e5e7eb;
+  --hero-sec-text-sze: 18px;
+
+  --header-logo-text-clr: #f9faf8;
+  --header-logo-text-sze: 24px;
+
+  --btn-cta-clr: #3882f6;
+
+  --info-header-text-clr: #1f2937;
+  --info-header-text-sze: 36px;
+  --info-header-text-wgt: extra-bold;
+
+  --quote-section-bg-clr: #e5e7eb;
+
+  --quote-text-clr: #1f2937;
+  --quote-text-sze: 36px;
+  --quote-text-stl: italic;
+  --quote-text-wgt: light;
+}
